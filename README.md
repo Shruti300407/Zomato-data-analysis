@@ -35,11 +35,14 @@ A detailed PDF report is included:
 
 ## 📊 Output insights
 Exploring Restaurant Types
+
 <img width="606" height="456" alt="image" src="https://github.com/user-attachments/assets/91846733-327b-4a44-a375-9a4c2e024bf1" />
 
 Ratings Comparison - Online vs Offline Orders
+
 <img width="575" height="560" alt="image" src="https://github.com/user-attachments/assets/6e2a4fdf-a7b3-4f9d-baa4-31879e21c5f8" />
 
 Order Mode Preferences by Restaurant Type
+
 <img width="559" height="480" alt="image" src="https://github.com/user-attachments/assets/675e4994-f295-4054-b952-9d40d87cbb88" />
 
